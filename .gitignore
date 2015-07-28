@@ -26,3 +26,15 @@
 *.exe
 *.out
 *.app
+using namespace std;
+
+int main() {
+
+cout << "Hello WorlD";
+
+
+
+
+
+
+return 0; }
